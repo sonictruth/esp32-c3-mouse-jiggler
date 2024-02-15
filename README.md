@@ -1,4 +1,4 @@
-# ESP32-C3 Mouse Jiggler
+# 🖱️ Wireless Bluetooth Mouse Jiggler
 
 ## Hardware
 - [ESP32 C2 Super Mini](https://www.aliexpress.com/item/1005005967641936.html?spm=a2g0o.productlist.main.1.24416b7aj7nLN6&algo_pvid=37ff41ee-9642-43f3-aa57-b783ac087542&algo_exp_id=37ff41ee-9642-43f3-aa57-b783ac087542-0&)
