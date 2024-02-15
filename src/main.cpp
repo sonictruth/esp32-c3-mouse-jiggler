@@ -7,16 +7,6 @@
 #include <esp_sleep.h>
 #include <esp_bit_defs.h>
 
-/*
-todo
-- gfx boot
-- 1 small line
-- 1 big line
-test button
-timings
-
-*/
-
 #define BUZZER_PIN 21
 #define BUTTON_PIN 5
 
