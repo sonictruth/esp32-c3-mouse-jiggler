@@ -1,2 +1,4 @@
-# esp32-c3-mouse-jiggler
-# esp32-c3-mouse-jiggler
+# ESP32-C3 Mouse Jiggler
+
+## Hardware
+
